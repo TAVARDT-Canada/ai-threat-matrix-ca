@@ -82,10 +82,10 @@ jobs:
 - **Compliance Standard**: OWASP Top 10 for LLM Applications & MITRE ATLAS
 - **Maintaining Organization**: [TAVARDT-Canada](https://github.com/TAVARDT-Canada)
 
-## TAVARDT Ecosystem & Official Portals
+## Official Portals
 
 - **Main National Portal**: [https://ag.tavardt.com/ca/](https://ag.tavardt.com/ca/)
-- **TAVARDT Tools Hub**: [https://tools.tavardt.com/ca/](https://tools.tavardt.com/ca/)
+- **Tools Hub**: [https://tools.tavardt.com/ca/](https://tools.tavardt.com/ca/)
 - **Technical Support Channel**: [https://ag.tavardt.com/ca/contact/](https://ag.tavardt.com/ca/contact/)
 
 ---
