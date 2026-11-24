@@ -151,6 +151,7 @@
 <style>
     
     * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { overflow-x: hidden; max-width: 100vw; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       background-color: #060913;
@@ -659,7 +660,8 @@
    ========================================================================== */
 
 
-html, body {
+html, html, body { overflow-x: hidden; max-width: 100vw; }
+    body {
   background-color: #050510 !important;
   color: #f8fafc !important;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
@@ -2060,7 +2062,7 @@ footer > div:first-child {
 </div>
 <textarea class="blueprint-output" id="blueprint-area" style="width: 100%; height: 160px; background: #050510; border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 8px; color: #839bc8; font-family: monospace; font-size: 0.85rem; padding: 12px; box-sizing: border-box; resize: vertical;"># AI Security Hardening Blueprint for Canadian Sovereign Infrastructure
 # Status: Verified</textarea>
-<pre id="blueprint-code-box" style="margin-top: 12px; padding: 12px; background: #020617; border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 6px;"><code id="blueprint-code" style="color: #6ee7b7; font-family: monospace; font-size: 0.82rem;"># Deterministic MITRE ATLAS &amp; OWASP Top 10 Hardening Specification</code></pre>
+<pre id="blueprint-code-box" style="margin-top: 12px; padding: 12px; background: #020617; border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 6px; overflow-x: auto; white-space: pre-wrap; word-break: break-all; max-width: 100%; box-sizing: border-box;"><code id="blueprint-code" style="color: #6ee7b7; font-family: monospace; font-size: 0.82rem;"># Deterministic MITRE ATLAS &amp; OWASP Top 10 Hardening Specification</code></pre>
 </div>
 </div>
 <div class="container">
