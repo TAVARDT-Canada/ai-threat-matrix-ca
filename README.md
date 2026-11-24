@@ -80,7 +80,13 @@ jobs:
 
 - **Compliance Standard**: OWASP Top 10 for LLM Applications & MITRE ATLAS
 
+***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/ca/
+* **Diagnostic Suite:** https://tools.tavardt.com/ca/
+* **Technical Contact:** https://ag.tavardt.com/ca/contact/
 
 ***
 
